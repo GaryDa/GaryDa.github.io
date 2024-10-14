@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随便一个标签 on GaryDevMurmur</title>
+    <link>http://localhost:1313/zh-cn/tags/custom/</link>
+    <description>Recent content in 随便一个标签 on GaryDevMurmur</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <managingEditor>transcend931@gmail.com (Gary Chang)</managingEditor>
+    <webMaster>transcend931@gmail.com (Gary Chang)</webMaster>
+    <copyright>Gary Chang</copyright>
+    <atom:link href="http://localhost:1313/zh-cn/tags/custom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>图片处理</title>
+      <link>http://localhost:1313/zh-cn/post/image-process/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/zh-cn/post/image-process/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;./images/behnam-norouzi-_1ok63FFlM4-unsplash.jpg&#34;&#xA;      alt=&#34;Photo by Behnam Norouzi on Unsplash&#34;  title=&#34;Photo by Behnam Norouzi on Unsplash&#34; &#xA;      loading=&#34;lazy&#34;&#xA;    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Photo by Behnam Norouzi on Unsplash&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;https://placeholder.co/1024x768/png&#34;&#xA;      alt=&#34;placeholder&#34;  title=&#34;Test for external image&#34; &#xA;      loading=&#34;lazy&#34;&#xA;    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Test for external image&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;div class=&#34;not-prose&#34;&gt;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;./images/hugo-logo-wide.svg&#34;&#xA;      alt=&#34;svg&#34;  title=&#34;Test for svg&#34; &#xA;      loading=&#34;lazy&#34;&#xA;    &gt;&lt;figcaption class=&#34;text-sm text-center text-slate-500 dark:text-slate-300&#34;&gt;Test for svg&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;p align=&#34;center&#34; width=&#34;100%&#34;&gt;&#xA;    &lt;img src=&#34;./images/logo.png&#34;&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

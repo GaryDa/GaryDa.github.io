@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CustomTag on GaryDevMurmur</title>
+    <link>http://localhost:1313/tags/custom/</link>
+    <description>Recent content in CustomTag on GaryDevMurmur</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <managingEditor>transcend931@gmail.com (Gary Chang)</managingEditor>
+    <webMaster>transcend931@gmail.com (Gary Chang)</webMaster>
+    <copyright>Gary Chang</copyright>
+    <atom:link href="http://localhost:1313/tags/custom/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

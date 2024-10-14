@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GaryDevMurmur</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on GaryDevMurmur</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <managingEditor>transcend931@gmail.com (Gary Chang)</managingEditor>
+    <webMaster>transcend931@gmail.com (Gary Chang)</webMaster>
+    <copyright>Gary Chang</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Class</title>
+      <link>http://localhost:1313/post/first-class/</link>
+      <pubDate>Mon, 14 Oct 2024 22:59:08 +0800</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/post/first-class/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apache Licence 2.0.&lt;/a&gt;&#xA; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/manifest.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/manifest.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/search/_index.de/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/search/_index.es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/search/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/search/_index.hi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/search/_index.jp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.nl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/search/_index.nl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/search/_index.pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>transcend931@gmail.com (Gary Chang)</author>
+      <guid>http://localhost:1313/search/_index.ru/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
