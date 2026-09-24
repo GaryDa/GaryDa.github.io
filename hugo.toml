@@ -1,0 +1,49 @@
+baseURL = "https://garyda.github.io/"
+title = "GaryDevMurmur"
+copyright = "Gary Chang"
+locale = "en-US"
+defaultContentLanguage = "en"
+
+[module]
+  [[module.imports]]
+    path = "github.com/tomowang/hugo-theme-tailwind"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[menus]
+  [[menus.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "post"
+    weight = 10
+
+  [[menus.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "about"
+    weight = 20
+
+[params]
+  keywords = "blog, dev, Gary Chang"
+  subtitle = "Gary's dev notes"
+  # Section shown on the home page
+  contentTypeName = "post"
+  jsonLD = true
+  showAuthor = true
+
+  [params.author]
+    name = "Gary Chang"
+
+  [params.header]
+    logo = "logo.svg"
+    title = "GaryDevMurmur"
+
+  [params.footer]
+    since = 2024
+    poweredby = true
+
+  [params.manifest]
+    description = "Gary's dev notes"
